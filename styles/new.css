@@ -1,0 +1,16 @@
+
+section h2, aside h2 {
+    border: solid black 1px;
+    color: #CC1C0D;
+    padding: 3px 20px;
+    border-radius: 0 5px 0 5px;
+    background-color: #DFE3E5;
+}
+
+.navigation {
+    border: solid #929CA4 1px;
+    color: #CC1C0D;
+    background: #DFE3E6;
+    padding: 3px 0 0 20px;
+    
+}
